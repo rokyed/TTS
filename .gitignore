@@ -1,3 +1,5 @@
+WadaSNR/
+.idea/
 *.pyc
 .DS_Store
 ./__init__.py
@@ -126,3 +128,5 @@ tests/outputs/*
 TODO.txt
 .vscode/*
 data/*
+notebooks/data/*
+TTS/tts/layers/glow_tts/monotonic_align/core.c
